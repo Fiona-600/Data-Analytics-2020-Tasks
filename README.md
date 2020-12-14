@@ -4,7 +4,7 @@ Fiona Lee
 
 This repository contains 4 assignment submissions for the Fundamentals of Data Analysis 2020 module of the Higher Diploma - Data Analytics and Computer Science course.
 
-The four assigments are contained in a single jupyter notebook called 'Task 1-4 Assessment Notebook.ipynb'.  The tasks were worked on in individual notebooks which were amalgamated into a single submission.  The individual notebooks are contained in the repository for each task in the 'Individual Notebooks' folder to preserve the commit history.
+The four assigments are contained in a single jupyter notebook called 'Task 1-4 Assessment Notebook.ipynb'.  The tasks were worked on in individual notebooks which were amalgamated into a single submission.  The individual notebooks for each task are contained in the repository in the 'Individual Notebooks' folder to preserve the commit history.
 
 The notebook contains the following submissions:
 
